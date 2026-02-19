@@ -18,7 +18,6 @@ Technical Highlights:
 ---------------------
 
 1. Knowledge Base Engine:
-.........................
 > External JSON-driven knowledge storage
 > Keyword-based scoring using set intersection
 > Minimum threshold matching (≥ 2 keywords)
@@ -26,7 +25,6 @@ Technical Highlights:
 > Prevents repeated responses using tracking logic
 
 2. Intent Recognition System:
-............................
 > Regex-powered intent detection
 > Handles:
 (i) Greetings
@@ -36,7 +34,6 @@ Technical Highlights:
 (v) Fallback mechanism for unmatched queries
 
 3. Response Optimization:
-.........................
 > Best-match selection algorithm
 > Randomized non-repeating responses
 > Clean fallback hierarchy:
@@ -45,13 +42,11 @@ Technical Highlights:
 > Default response
 
 4. Logging & Traceability:
-.........................
 > Persistent logging to chat_log.txt
 > Timestamped entries
 > Useful for debugging and analytics
 
 5. GUI Implementation:
-......................
 > Built using Tkinter (standard Python library)
 > Scrollable chat interface
 > eyboard event binding (Enter key support)
@@ -61,42 +56,66 @@ Technical Highlights:
 System Architecture Overview:
 -----------------------------
 User Input:
+
 → Text Normalization
+
 → Keyword Matching (Knowledge Base)
+
 → Intent Pattern Matching (Regex)
+
 → Response Selection
+
 → Logging
+
 → GUI Display
 
 How to Run:
 -----------
 Requirements:
+
 -> Python 3.8+
+
 -> No external dependencies
 
 Setup:
+
 git clone https://github.com/Fazlul03/AIChatbot.git
+
 cd AIChatbot
+
 python chatbot.py
 
 Design Decisions:
 -----------------
-> Rule-Based System: Chosen for interpretability and deterministic behavior.
-> JSON Knowledge Base: Enables easy extension without modifying application logic.
-> Regex Intent Detection: Lightweight alternative to ML-based classifiers.
-> Response Randomization: Improves conversational variability while maintaining control.
-> Tkinter GUI: Provides cross-platform desktop support without third-party libraries.
+
+-> Rule-Based System: Chosen for interpretability and deterministic behavior.
+
+-> JSON Knowledge Base: Enables easy extension without modifying application logic.
+
+-> Regex Intent Detection: Lightweight alternative to ML-based classifiers.
+
+-> Response Randomization: Improves conversational variability while maintaining control.
+
+-> Tkinter GUI: Provides cross-platform desktop support without third-party libraries.
 
 Use Cases:
 ----------
+
 -> Academic demonstration of rule-based NLP systems
+
 -> Beginner AI/NLP portfolio project
+
 -> Prototype conversational logic testing
+
 -> GUI application architecture practice
 
 Limitations:
 ------------
+
 -> No contextual memory beyond single query
+
 -> No NLP preprocessing (stemming, lemmatization, stopword removal)
+
 -> Keyword matching is surface-level
+
 -> No machine learning integration
