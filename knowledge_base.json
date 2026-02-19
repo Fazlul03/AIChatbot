@@ -1,0 +1,230 @@
+[
+    {
+        "keywords": ["who", "created", "python"],
+        "answer": "Python was created by Guido van Rossum in 1991."
+    },
+    {
+        "keywords": ["what", "ai","artificial","intelligence"],
+        "answer": "Artificial Intelligence (AI) is the simulation of human intelligence in machines."
+    },
+    {
+        "keywords": ["machine", "learning","ml"],
+        "answer": "Machine Learning is a subset of AI that allows systems to learn from data."
+    },
+    {
+        "keywords": ["deep", "learning","dl"],
+        "answer": "Deep Learning is based on neural networks with many layers."
+    },
+    {
+        "keywords": ["what", "nlp"],
+        "answer": "Natural Language Processing allows computers to understand human language."
+    },
+    {
+        "keywords": ["what", "chatbot"],
+        "answer": "A chatbot is a software program that simulates human conversation."
+    },
+    {
+        "keywords": ["what", "python"],
+        "answer": "Python is a popular high-level programming language."
+    },
+    {
+        "keywords": ["what", "java"],
+        "answer": "Java is an object-oriented programming language."
+    },
+    {
+        "keywords": ["what", "html"],
+        "answer": "HTML stands for HyperText Markup Language."
+    },
+    {
+        "keywords": ["what", "css"],
+        "answer": "CSS is used to style HTML web pages."
+    },
+    {
+        "keywords": ["what", "javascript"],
+        "answer": "JavaScript makes websites interactive."
+    },
+    {
+        "keywords": ["how", "are", "you","this","who"],
+        "answer": "I'm just a bot, but I'm doing great!"
+    },
+    {
+        "keywords": ["your", "name","yourself"],
+        "answer": "I am a rule-based chatbot."
+    },
+    {
+        "keywords": ["who", "made", "you"],
+        "answer": "I was created as a chatbot project."
+    },
+    {
+        "keywords": ["what", "can", "you", "do"],
+        "answer": "I can answer basic tech and daily life questions."
+    },
+    {
+        "keywords": ["tell", "joke"],
+        "answer": ["Why do programmers prefer dark mode? Because light attracts bugs!","I told my computer I needed a break, and it said 'No problem — I’ll go to sleep!'", "Why do Java developers wear glasses? Because they don’t C#!"]
+    },
+    {
+        "keywords": ["fun", "fact","me","tell"],
+        "answer": ["Honey never spoils. It has been found edible in ancient tombs.", "Did you know? Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs over 3000 years old!",
+        "Bananas are berries, but strawberries are not!",
+        "Octopuses have three hearts and blue blood.",
+        "The Eiffel Tower can be 15 cm taller during hot days due to thermal expansion.",
+        "Sharks existed before trees!"]
+    },
+    {
+        "keywords": ["motivate","me","motivation","give"],
+        "answer": ["Believe in yourself. Every expert was once a beginner.", "Believe you can and you're halfway there. – Theodore Roosevelt",
+        "Don't watch the clock; do what it does. Keep going. – Sam Levenson",
+        "The harder you work for something, the greater you'll feel when you achieve it.",
+        "Dream it. Wish it. Do it.",
+        "Success is not final, failure is not fatal: It is the courage to continue that counts. – Winston Churchill"]
+    },
+    {
+        "keywords": ["i", "sad"],
+        "answer": "I'm sorry you're feeling sad. Things will get better."
+    },
+    {
+        "keywords": ["i", "happy"],
+        "answer": "That's wonderful! Keep smiling."
+    },
+    {
+        "keywords": ["i", "bored"],
+        "answer": "Maybe try learning something new today."
+    },
+    {
+        "keywords": ["what", "time"],
+        "answer": "I cannot access real-time clock, please check your device."
+    },
+    {
+        "keywords": ["what", "date"],
+        "answer": "Please check your system calendar for today's date."
+    },
+    {
+        "keywords": ["weather"],
+        "answer": "I cannot access live weather data."
+    },
+    {
+        "keywords": ["stay", "healthy"],
+        "answer": "Eat balanced food, exercise regularly, and sleep well."
+    },
+    {
+        "keywords": ["drink", "water"],
+        "answer": "An average adult should drink about 2-3 liters of water daily."
+    },
+    {
+        "keywords": ["sleep", "important"],
+        "answer": "Sleep helps your body recover and improves memory."
+    },
+    {
+        "keywords": ["what", "computer"],
+        "answer": "A computer is an electronic device that processes data."
+    },
+    {
+        "keywords": ["what", "internet"],
+        "answer": "The Internet connects millions of computers worldwide."
+    },
+    {
+        "keywords": ["what", "database"],
+        "answer": "A database is an organized collection of data."
+    },
+    {
+        "keywords": ["cloud", "computing"],
+        "answer": "Cloud computing delivers services over the internet."
+    },
+    {
+        "keywords": ["cybersecurity"],
+        "answer": "Cybersecurity protects systems from digital attacks."
+    },
+    {
+        "keywords": ["data", "science"],
+        "answer": "Data Science extracts insights from structured and unstructured data."
+    },
+    {
+        "keywords": ["algorithm"],
+        "answer": "An algorithm is a step-by-step procedure to solve a problem."
+    },
+    {
+        "keywords": ["operating", "system"],
+        "answer": "An operating system manages hardware and software resources."
+    },
+    {
+        "keywords": ["linux"],
+        "answer": "Linux is an open-source operating system."
+    },
+    {
+        "keywords": ["windows"],
+        "answer": "Windows is an operating system developed by Microsoft."
+    },
+    {
+        "keywords": ["albert", "einstein"],
+        "answer": "Albert Einstein developed the theory of relativity."
+    },
+    {
+        "keywords": ["isaac", "newton"],
+        "answer": "Isaac Newton formulated the laws of motion and gravity."
+    },
+    {
+        "keywords": ["gravity"],
+        "answer": "Gravity is a force that pulls objects toward each other."
+    },
+    {
+        "keywords": ["photosynthesis"],
+        "answer": "Photosynthesis is how plants make food using sunlight."
+    },
+    {
+        "keywords": ["sun","about"],
+        "answer": "The Sun is the star at the center of our solar system."
+    },
+    {
+        "keywords": ["moon","about"],
+        "answer": "The Moon is Earth's natural satellite."
+    },
+    {
+        "keywords": ["india"],
+        "answer": "India is a country in South Asia."
+    },
+    {
+        "keywords": ["usa"],
+        "answer": "USA stands for United States of America."
+    },
+    {
+        "keywords": ["united", "nations"],
+        "answer": "The United Nations promotes international peace and cooperation."
+    },
+    {
+        "keywords": ["thank","you"],
+        "answer": "You're welcome!"
+    },
+    {
+        "keywords": ["good", "morning"],
+        "answer": "Good morning! Have a productive day."
+    },
+    {
+        "keywords": ["good", "night"],
+        "answer": "Good night! Sleep well."
+    },
+    {
+        "keywords": ["bye","goodbye"],
+        "answer": "Goodbye! Have a great day ahead."
+    },
+    {
+        "keywords": ["what", "love"],
+        "answer": "Love is a deep feeling of affection and care."
+    },
+    {
+        "keywords": ["friendship","about","what"],
+        "answer": "Friendship is a relationship based on trust and support."
+    },
+    {
+        "keywords": ["success","about","what"],
+        "answer": "Success means achieving goals that matter to you."
+    },
+    {
+        "keywords": ["reduce", "stress","how"],
+        "answer": "Practice breathing exercises, exercise, and manage your time."
+    },
+    {
+        "keywords": ["focus", "studies","how"],
+        "answer": "Avoid distractions and follow a proper study schedule."
+    }
+]
